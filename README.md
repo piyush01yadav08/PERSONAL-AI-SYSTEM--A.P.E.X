@@ -302,4 +302,7 @@ BCA Student | Full Stack Developer | AI & ML Enthusiast
 
 Currently building APEX AI OS — a long-term project focused on creating an intelligent personal AI ecosystem inspired by the vision of advanced digital assistants.
 
+## LICENSE
+This project is licensed under the MIT License - see the LICENSE file for the details.
+
 
